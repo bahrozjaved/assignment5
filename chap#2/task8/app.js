@@ -1,0 +1,1 @@
+document.write("YaH! I can write html content through the Javavscript");

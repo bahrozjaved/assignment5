@@ -1,0 +1,1 @@
+function myFunction() { alert("Error! plzz enter the valid email or password"); }

@@ -1,0 +1,1 @@
+alert("pizza\npizz\npiz\npi\np");
